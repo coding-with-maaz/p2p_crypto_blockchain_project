@@ -1,0 +1,3 @@
+ID,Title,Description,From,To,Hash,Amount,"Amount FIAT",Cryptocurrency,Currency,"External Reference","Creation Time",Status,Webhook,Billing,VAT,"VAT details"
+2,,address-btc,,"recive money",Array,0.00092696,100,btc,USDC,,"2025-07-05 16:50:54",P,0,,0,,1,1
+1,,address-btc,,,Array,0.00092649,100,btc,USD,,"2025-07-05 16:49:04",C,0,,0,,,1
